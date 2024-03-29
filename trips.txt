@@ -1,0 +1,5 @@
+4
+Car Toyota 8.5 New_York 500
+Airplane Emirates 500 Maldives 4
+Car BMW 10.0 Los_Angeles 700
+Airplane Delta 700 Hawaii 2
